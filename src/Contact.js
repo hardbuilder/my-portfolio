@@ -41,7 +41,7 @@ const Contact = () => {
       icon: '📧',
       label: 'Email',
       value: 'omrtakale@gmail.com',
-      link: 'mailto:om.takale@email.com'
+      link: 'mailto:omrtakale@email.com'
     },
     {
       icon: '📱',
