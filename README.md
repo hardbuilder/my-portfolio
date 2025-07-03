@@ -22,7 +22,8 @@ A clean, responsive, and modern portfolio website to showcase your projects, ski
 ## 🚀 Tech Stack
 
 - HTML5  
-- CSS3  
+- CSS3
+- react
 - JavaScript (Vanilla)  
 - Bootstrap (optional, if used)  
 - Vanta.js (for background effects)
