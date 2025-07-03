@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /Automated-Checkout-System/
+Disallow: /src/
+Disallow: /public/img/
+Disallow: /README.md
+Disallow: /.gitignore
+Disallow: /package.json
+Disallow: /favicon.ico
+Disallow: /manifest.json
+Disallow: /robots.txt
+
+Allow: /public/index.html
+Allow: /public/logo192.png
+Allow: /public/logo512.png
