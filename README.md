@@ -7,7 +7,7 @@ A clean, responsive, and modern portfolio website to showcase your projects, ski
 
 ## 🌐 Live Demo
 
-🔗 [View the Website](https://hardbuilder.github.io/my-portfolio)
+🔗 [View the Website](https://my-portfolio-4h1b.vercel.app/)
 
 ## 🧩 Features
 
