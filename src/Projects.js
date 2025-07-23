@@ -2,6 +2,8 @@ import React from 'react';
 import './App.css';
 import portfolioImage from './img/portf.jpg';
 import checkImage from './img/checkout.jpg';
+import bnb from './img/bnb.jpg';
+import uplft from './img/uplft.jpg';
 
 const Projects = () => {
   const projects = [
@@ -19,7 +21,7 @@ const Projects = () => {
       technologies: ["HTML5", "CSS3", "JavaScript", "React.js", "Node.js"],
       liveLink: "#",
       githubLink: "https://github.com/hardbuilder/BNBooking",
-      image: "https://private-user-images.githubusercontent.com/135633997/457638166-71952626-91cb-4480-aed2-8b8e7b9f6122.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE1MjUyNDIsIm5iZiI6MTc1MTUyNDk0MiwicGF0aCI6Ii8xMzU2MzM5OTcvNDU3NjM4MTY2LTcxOTUyNjI2LTkxY2ItNDQ4MC1hZWQyLThiOGU3YjlmNjEyMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcwM1QwNjQyMjJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01YmIxZjIxNDQ2NzExZDU0NGI1MTQzNTkxMGVjYzVlYzYzMjE3NjEwOTI5NDEzNzIzNDg3YzYyNWE4NDAzZmE2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.IZHxoHMnSXfQGhZflXSUjOiAtREuzqCgkFf6tLDGe90"
+      image: bnb
     },
     {
       title: "AI Automated Checkout System",
@@ -35,7 +37,7 @@ const Projects = () => {
       technologies: ["Python", "Flask", "SQLAlchemy", "SQLite"],
       liveLink: "#",
       githubLink: "https://github.com/hardbuilder/uplyft-chatbot",
-      image: "https://private-user-images.githubusercontent.com/135633997/457839900-599c3290-ebf8-4401-9d9f-d7b3d2db055d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE1MzA1MzIsIm5iZiI6MTc1MTUzMDIzMiwicGF0aCI6Ii8xMzU2MzM5OTcvNDU3ODM5OTAwLTU5OWMzMjkwLWViZjgtNDQwMS05ZDlmLWQ3YjNkMmRiMDU1ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzAzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcwM1QwODEwMzJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mNmRlODVmNjYzN2RjYjQ2YzMxN2Y3ODFiOWVmZWYzODIwNjhkZjU1Y2I0MDY1ZDIwOTUwMmMzZGQyN2MyMDc3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.7iR6QC09nyxnIxoZ7TJWsbwyJtKNN66Mg5V-LMzTqIQ"
+      image: uplft
     },
 
   ];
