@@ -5,15 +5,15 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger'
 gsap.registerPlugin(ScrollTrigger)
 
 const history = [
-    { year: '2024', role: 'Top 4th Rank in college level hackathon', company: 'Presidency University' },
+    { year: '2026', role: 'Pursuing B Tech in CSE 2023-2027', company: 'Presidency University' },
+    { year: '2026', role: '1st Rank in Code and Solve LeetCode Competition', company: 'Technopia-2026' },
+    { year: '2026', role: 'Selected in TOP 10 Teams in AI-Hackathon', company: 'GDG' },
+    { year: '2025', role: '1st Rank in Inter College Hackathon', company: 'IEEE Tech Week' },
+    { year: '2025', role: '4th Rank in Inter College HackerRank solving competition', company: 'IEEE Tech Week' },
+    { year: '2025', role: 'Selected in TOP 70 teams in Smart India Hackathon', company: 'SIH' },
     { year: '2024', role: 'Selected in TOP 30 in Arduino Expo', company: 'IEEE & Presidency University' },
     { year: '2024', role: 'Selected in TOP 10 in Raspberry Pi Expo', company: 'IEEE & Presidency University' },
-    { year: '2025', role: 'Selected in TOP 70 teams in Smart India Hackathon', company: 'SIH' },
-    { year: '2025', role: '4th Rank in Inter College HackerRank solving competition', company: 'IEEE Tech Week' },
-    { year: '2025', role: '1st Rank in Inter College Hackathon', company: 'IEEE Tech Week' },
-    { year: '2026', role: 'Selected in TOP 10 Teams in AI-Hackathon', company: 'GDG' },
-    { year: '2026', role: '1st Rank in Code and Solve LeetCode Competition', company: 'Technopia-2026' },
-    { year: '2026', role: 'Pursuing B Tech in CSE 2023-2027', company: 'Presidency University' },
+    { year: '2024', role: 'Top 4th Rank in college level hackathon', company: 'Presidency University' },    
 ]
 
 export default function Timeline() {
